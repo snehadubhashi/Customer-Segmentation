@@ -12,7 +12,7 @@ The retailer needs a practical way to decide which customers to retain, grow, or
 
 ## Dashboard
 
-Tableau Public: [ADD LINK HERE]
+
 
 ![Tableau customer segmentation dashboard](tableau_dashboard.png)
 
