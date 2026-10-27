@@ -1,0 +1,12 @@
+# Data preparation and Excel input
+pandas
+numpy
+openpyxl
+
+# Customer segmentation and charts
+scikit-learn
+matplotlib
+seaborn
+
+# Notebook environment
+jupyter
